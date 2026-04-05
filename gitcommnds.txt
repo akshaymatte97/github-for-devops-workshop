@@ -1,0 +1,69 @@
+   2 python testing.py
+   3 git init
+   4 ls
+   5 ls -a
+   6 dir
+   7 ls -Force
+   8 git status
+   9 git add testing.py
+  10 git status
+  11 git rm --cached .\testing.py
+  12 git status
+  13 git add testing.py
+  14 git status
+  15 git commit -m "added testing files"
+  16 git status
+  17 rm testing.py
+  18 ls
+  19 git status
+  20 git restore testing.py
+==============================================================================
+
+ 21 history
+  22 ls
+  23 git status
+  24 git add
+  25 git add gitcommnds.txt
+  26 git status
+  27 git commit -m "added to tracked"
+  28 git status
+  29 git remote add origin https://github.com/akshaymatte97/github-for-devops-workshop.git
+  30 git branch -M main
+  31 git remote status
+  32 git rempte -v
+  33 git remote -v
+  34 git remote remove origin
+  35 git remote -v
+  36 git branch -M master
+  37 git remote -v
+  38 git remote add origin https://github.com/akshaymatte97/github-for-devops-workshop.git
+  39 git remote -v
+  40 git status
+  41 git push origin master
+  42 git remote set-url origin https:v... 
+  43 git remote -v
+  44 git push origin master
+  45 git remote -v
+  46 git remote add origin https:/git
+  47 git push origin master
+  48 git remote -v
+  49 git commit -m "added to tracked"
+  50 git add .\gitcommnds.txt
+  51 git status
+  52 git commit -m "added to tracked"
+  53 git remote add origin https:
+  55 mkdir git-demo-new
+  56 ls
+  57 cd .\git-demo-new\
+  58 git clone 
+  59 ls
+  60 cd .\github-fo
+  61 ls
+  62 cd ..
+  63 cd ..
+  64 cd .\github-for-devops-workshop\
+  65 ls
+  66 git push remote
+  67 git push https://g
+  68 git push ithub-for-d    
+========================================================================
